@@ -3554,7 +3554,7 @@ input[type="button"].btn-block {
 .navbar-dark .navbar-brand {
   color: #fff; }
   .navbar-dark .navbar-brand:hover, .navbar-dark .navbar-brand:focus {
-    color: #fff; }
+    color: #00c9ff; }
 
 .navbar-dark .navbar-nav .nav-link {
   color: rgba(255, 255, 255, 0.5); }
@@ -7542,7 +7542,7 @@ h1, h2, h3, h4, h5,
   .slider-text .bread {
     font-weight: 400 !important; }
   .slider-text .btn-outline-white {
-    border: 1px solid rgba(255, 255, 255, 0.4) !important; }
+    border: 1px solid #000 !important; }
     .slider-text .btn-outline-white span {
       color: #fff; }
     .slider-text .btn-outline-white:hover span {
@@ -7668,14 +7668,14 @@ h1, h2, h3, h4, h5,
       background: #000;
       color: #fff; }
     .btn.btn-white.btn-outline-white {
-      border-color: rgba(255, 255, 255, 0.8);
+      border-color: #fff;
       background: none;
       border-width: 1px;
       color: #fff; }
       .btn.btn-white.btn-outline-white:hover, .btn.btn-white.btn-outline-white:focus, .btn.btn-white.btn-outline-white:active {
         background: #fff;
-        border-color: #fff;
-        color: #fa5bdd; }
+        border-color: #000;
+        color: #000; }
   .btn.btn-outline-black {
     border-color: black;
     background: none;
@@ -7684,7 +7684,7 @@ h1, h2, h3, h4, h5,
     .btn.btn-outline-black:hover, .btn.btn-outline-black:focus, .btn.btn-outline-black:active {
       background: #000;
       border-color: #000;
-      color: #fff; }
+      color: #000; }
 
 .services .icon span {
   margin: 0 auto;
@@ -7829,7 +7829,7 @@ h1, h2, h3, h4, h5,
     left: 0;
     right: 0;
     bottom: 0;
-    background: #fa5bdd;
+    background: #965a61;
     opacity: 1; }
 
 .appointment-info {
