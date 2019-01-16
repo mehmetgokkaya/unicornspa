@@ -7541,7 +7541,7 @@ h1, h2, h3, h4, h5,
   .slider-text .bread {
     font-weight: 400 !important; }
   .slider-text .btn-outline-white {
-    border: 1px solid #000 !important; }
+    border: 1px solid #fff !important; }
     .slider-text .btn-outline-white span {
       color: #fff; }
     .slider-text .btn-outline-white:hover span {
