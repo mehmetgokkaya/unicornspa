@@ -7843,10 +7843,10 @@ h1, h2, h3, h4, h5,
     margin-bottom: 0; }
   .appointment-info h3 {
     font-size: 20px;
-    color: #fff; }
+    color: #000; }
 
 .appointment h3 {
-  color: #fff; }
+  color: #000; }
 
 .appointment-form .form-group {
   position: relative; }
@@ -7859,7 +7859,7 @@ h1, h2, h3, h4, h5,
     -ms-transform: translateY(-50%);
     transform: translateY(-50%); }
     .appointment-form .form-group .icon span {
-      color: white !important; }
+      color: black !important; }
   .appointment-form .form-group .select-wrap, .appointment-form .form-group .input-wrap {
     position: relative; }
     .appointment-form .form-group .select-wrap select, .appointment-form .form-group .input-wrap select {
@@ -7869,30 +7869,30 @@ h1, h2, h3, h4, h5,
 
 .appointment-form .form-control {
   border: transparent !important;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.2) !important;
+  border-bottom: 1px solid black !important;
   height: 58px !important;
   padding-left: 0;
   padding-right: 0;
   background: transparent !important;
-  color: rgba(255, 255, 255, 0.9) !important;
+  color: black !important;
   font-size: 13px;
   border-radius: 0px;
   -webkit-box-shadow: none !important;
   box-shadow: none !important; }
   .appointment-form .form-control::-webkit-input-placeholder {
     /* Chrome/Opera/Safari */
-    color: rgba(255, 255, 255, 0.9); }
+    color: black }
   .appointment-form .form-control::-moz-placeholder {
     /* Firefox 19+ */
-    color: rgba(255, 255, 255, 0.9); }
+    color: black; }
   .appointment-form .form-control:-ms-input-placeholder {
     /* IE 10+ */
-    color: rgba(255, 255, 255, 0.9); }
+    color: black; }
   .appointment-form .form-control:-moz-placeholder {
     /* Firefox 18- */
-    color: rgba(255, 255, 255, 0.9); }
+    color: black; }
   .appointment-form .form-control:focus, .appointment-form .form-control:active {
-    border-color: #fff; }
+    border-color: #000; }
 
 .appointment-form textarea.form-control {
   height: inherit !important; }
