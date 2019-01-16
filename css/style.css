@@ -3553,7 +3553,7 @@ input[type="button"].btn-block {
 .navbar-dark .navbar-brand {
   color: #fff; }
   .navbar-dark .navbar-brand:hover, .navbar-dark .navbar-brand:focus {
-    color: #00c9ff; }
+    color: #fa5bdd; }
 
 .navbar-dark .navbar-nav .nav-link {
   color: rgba(255, 255, 255, 0.5); }
@@ -7460,15 +7460,14 @@ h1, h2, h3, h4, h5,
       color: #000; }
 
 .navbar-brand {
-  font-weight: 700;
+  font-weight: 600;
   font-size: 22px;
   text-transform: uppercase;
-  letter-spacing: 1px;
-  line-height: 1; }
+}
   .navbar-brand small {
     font-size: 10px;
     letter-spacing: 6px;
-    font-weight: 700;
+    font-weight: 600;
     color: #fa5bdd; }
   .navbar-brand i {
     color: #fa5bdd;
