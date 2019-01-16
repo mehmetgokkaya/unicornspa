@@ -7838,7 +7838,7 @@ h1, h2, h3, h4, h5,
     .appointment-info {
       margin-bottom: 40px; } }
   .appointment-info span {
-    color: rgba(255, 255, 255, 0.9); }
+    color: black; }
   .appointment-info .day {
     margin-bottom: 0; }
   .appointment-info h3 {
