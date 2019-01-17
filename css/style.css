@@ -7631,10 +7631,6 @@ h1, h2, h3, h4, h5,
 
 .btn {
   cursor: pointer;
-  -webkit-border-radius: 30px;
-  -moz-border-radius: 30px;
-  -ms-border-radius: 30px;
-  border-radius: 30px;
   -webkit-box-shadow: none !important;
   box-shadow: none !important;
   font-size: 13px; }
