@@ -7874,7 +7874,7 @@ h1, h2, h3, h4, h5,
       appearance: none; }
 
 .appointment-form .form-control {
-  border: transparent !important;
+  border: none;
   border-bottom: 1px solid black; !important;
   height: 58px !important;
   padding-left: 0;
